@@ -144,10 +144,15 @@ body {
     filter: invert(30%);
 }
 
+.clr{
+    clear: both;
+}
+
 footer{
-    position: absolute;
-    left: 45%;
-    bottom: 0;
+    /*position: absolute;*/
+    /*left: 45%;*/
+    /*bottom: 0;*/
     font-size: 26px;
     font-weight: 700;
+    text-align: center;
 }
